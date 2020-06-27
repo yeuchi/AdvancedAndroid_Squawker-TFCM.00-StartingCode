@@ -11,6 +11,11 @@ As of 2020, more recent version of push notification lesson can be found at Code
 
 <img width="600" alt="Screen Shot 2020-06-27 at 6 16 29 PM" src="https://user-images.githubusercontent.com/1282659/85934005-e1c1ab00-b8a2-11ea-9a9d-8cb63b97f131.png"> <img width="220" alt="Screen Shot 2020-06-27 at 6 16 14 PM" src="https://user-images.githubusercontent.com/1282659/85934028-1f263880-b8a3-11ea-9f47-1cb26581eb98.png">
 
+Many thanks to Agosto and Google Developer Group, pleasure to meet Andrew Lee and learn his journey of starting Firebase.
+https://www.linkedin.com/posts/ct-yeung-a32b215_nice-to-learn-the-google-firebase-story-from-activity-6329759149919911937-VQt4
+<img width="400" alt="Screen Shot 2020-06-27 at 6 29 23 PM" src="https://user-images.githubusercontent.com/1282659/85934138-52b59280-b8a4-11ea-9998-55797dc6978f.png">
+
+
 # References
 
 1. Android Firebase Cloud Messaging Codelab
